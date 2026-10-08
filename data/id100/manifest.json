@@ -1,0 +1,1102 @@
+[
+{
+"id": "refund_request_1_00103__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "289808768",
+"path": "img/refund_request_1_00103__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+51
+]
+},
+{
+"id": "family_declaration_1_00089__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "460787625",
+"path": "img/family_declaration_1_00089__id_number.png",
+"field_bbox": [
+96,
+256,
+306,
+55
+]
+},
+{
+"id": "personal_details_1_00000__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "246542542",
+"path": "img/personal_details_1_00000__id_number.png",
+"field_bbox": [
+736,
+328,
+306,
+52
+]
+},
+{
+"id": "refund_request_1_00142__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "670820349",
+"path": "img/refund_request_1_00142__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+55
+]
+},
+{
+"id": "personal_details_1_00147__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "339175481",
+"path": "img/personal_details_1_00147__id_number.png",
+"field_bbox": [
+736,
+326,
+306,
+50
+]
+},
+{
+"id": "refund_request_1_00016__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "235344785",
+"path": "img/refund_request_1_00016__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+46
+]
+},
+{
+"id": "family_declaration_1_00011__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "692000672",
+"path": "img/family_declaration_1_00011__id_number.png",
+"field_bbox": [
+92,
+256,
+306,
+44
+]
+},
+{
+"id": "refund_request_1_00094__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "504474222",
+"path": "img/refund_request_1_00094__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+49
+]
+},
+{
+"id": "family_declaration_1_00032__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "718394109",
+"path": "img/family_declaration_1_00032__id_number.png",
+"field_bbox": [
+94,
+256,
+297,
+46
+]
+},
+{
+"id": "refund_request_1_00106__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:Karantina-400",
+"gt": "049196454",
+"path": "img/refund_request_1_00106__id_number.png",
+"field_bbox": [
+153,
+256,
+306,
+47
+]
+},
+{
+"id": "refund_request_1_00049__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "462214057",
+"path": "img/refund_request_1_00049__id_number.png",
+"field_bbox": [
+151,
+256,
+306,
+49
+]
+},
+{
+"id": "personal_details_1_00066__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "580990331",
+"path": "img/personal_details_1_00066__id_number.png",
+"field_bbox": [
+736,
+322,
+306,
+46
+]
+},
+{
+"id": "refund_request_1_00085__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "062560180",
+"path": "img/refund_request_1_00085__id_number.png",
+"field_bbox": [
+151,
+256,
+306,
+53
+]
+},
+{
+"id": "refund_request_1_00097__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "080708472",
+"path": "img/refund_request_1_00097__id_number.png",
+"field_bbox": [
+151,
+256,
+306,
+50
+]
+},
+{
+"id": "refund_request_1_00025__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "722795523",
+"path": "img/refund_request_1_00025__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+51
+]
+},
+{
+"id": "personal_details_1_00141__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:AmaticSC-700",
+"gt": "876680091",
+"path": "img/personal_details_1_00141__id_number.png",
+"field_bbox": [
+736,
+333,
+306,
+57
+]
+},
+{
+"id": "personal_details_1_00060__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "097772040",
+"path": "img/personal_details_1_00060__id_number.png",
+"field_bbox": [
+744,
+327,
+306,
+51
+]
+},
+{
+"id": "refund_request_1_00064__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "785051475",
+"path": "img/refund_request_1_00064__id_number.png",
+"field_bbox": [
+151,
+256,
+306,
+51
+]
+},
+{
+"id": "personal_details_1_00027__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "678497405",
+"path": "img/personal_details_1_00027__id_number.png",
+"field_bbox": [
+740,
+335,
+306,
+59
+]
+},
+{
+"id": "personal_details_1_00075__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "479394009",
+"path": "img/personal_details_1_00075__id_number.png",
+"field_bbox": [
+736,
+320,
+306,
+44
+]
+},
+{
+"id": "refund_request_1_00100__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "386954457",
+"path": "img/refund_request_1_00100__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+58
+]
+},
+{
+"id": "family_declaration_1_00095__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "248779035",
+"path": "img/family_declaration_1_00095__id_number.png",
+"field_bbox": [
+96,
+256,
+306,
+47
+]
+},
+{
+"id": "family_declaration_1_00041__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "792656530",
+"path": "img/family_declaration_1_00041__id_number.png",
+"field_bbox": [
+97,
+256,
+297,
+49
+]
+},
+{
+"id": "family_declaration_1_00110__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "285257036",
+"path": "img/family_declaration_1_00110__id_number.png",
+"field_bbox": [
+92,
+256,
+306,
+55
+]
+},
+{
+"id": "personal_details_1_00078__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "985606276",
+"path": "img/personal_details_1_00078__id_number.png",
+"field_bbox": [
+736,
+328,
+306,
+52
+]
+},
+{
+"id": "personal_details_1_00123__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "600630529",
+"path": "img/personal_details_1_00123__id_number.png",
+"field_bbox": [
+736,
+326,
+306,
+50
+]
+},
+{
+"id": "personal_details_1_00033__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "550444137",
+"path": "img/personal_details_1_00033__id_number.png",
+"field_bbox": [
+744,
+333,
+306,
+57
+]
+},
+{
+"id": "personal_details_1_00099__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "716810791",
+"path": "img/personal_details_1_00099__id_number.png",
+"field_bbox": [
+736,
+333,
+306,
+57
+]
+},
+{
+"id": "refund_request_1_00088__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "823380886",
+"path": "img/refund_request_1_00088__id_number.png",
+"field_bbox": [
+153,
+256,
+306,
+54
+]
+},
+{
+"id": "refund_request_1_00136__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "173320672",
+"path": "img/refund_request_1_00136__id_number.png",
+"field_bbox": [
+155,
+256,
+306,
+49
+]
+},
+{
+"id": "personal_details_1_00051__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "667950620",
+"path": "img/personal_details_1_00051__id_number.png",
+"field_bbox": [
+733,
+324,
+306,
+48
+]
+},
+{
+"id": "refund_request_1_00034__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "351878244",
+"path": "img/refund_request_1_00034__id_number.png",
+"field_bbox": [
+155,
+256,
+306,
+54
+]
+},
+{
+"id": "personal_details_1_00084__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "250675741",
+"path": "img/personal_details_1_00084__id_number.png",
+"field_bbox": [
+736,
+327,
+306,
+51
+]
+},
+{
+"id": "refund_request_1_00001__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:AmaticSC-700",
+"gt": "038186086",
+"path": "img/refund_request_1_00001__id_number.png",
+"field_bbox": [
+154,
+256,
+306,
+49
+]
+},
+{
+"id": "refund_request_1_00055__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "543895791",
+"path": "img/refund_request_1_00055__id_number.png",
+"field_bbox": [
+151,
+256,
+306,
+51
+]
+},
+{
+"id": "personal_details_1_00102__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "600792592",
+"path": "img/personal_details_1_00102__id_number.png",
+"field_bbox": [
+733,
+320,
+306,
+44
+]
+},
+{
+"id": "refund_request_1_00115__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "762115319",
+"path": "img/refund_request_1_00115__id_number.png",
+"field_bbox": [
+155,
+256,
+306,
+53
+]
+},
+{
+"id": "family_declaration_1_00122__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "151459401",
+"path": "img/family_declaration_1_00122__id_number.png",
+"field_bbox": [
+92,
+256,
+306,
+44
+]
+},
+{
+"id": "family_declaration_1_00056__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "354692824",
+"path": "img/family_declaration_1_00056__id_number.png",
+"field_bbox": [
+92,
+256,
+306,
+59
+]
+},
+{
+"id": "personal_details_1_00114__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "745870493",
+"path": "img/personal_details_1_00114__id_number.png",
+"field_bbox": [
+736,
+335,
+306,
+59
+]
+},
+{
+"id": "personal_details_1_00003__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "020160503",
+"path": "img/personal_details_1_00003__id_number.png",
+"field_bbox": [
+736,
+320,
+306,
+44
+]
+},
+{
+"id": "personal_details_1_00045__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "775322050",
+"path": "img/personal_details_1_00045__id_number.png",
+"field_bbox": [
+736,
+328,
+306,
+52
+]
+},
+{
+"id": "personal_details_1_00030__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "513731356",
+"path": "img/personal_details_1_00030__id_number.png",
+"field_bbox": [
+744,
+332,
+306,
+56
+]
+},
+{
+"id": "refund_request_1_00118__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "315842773",
+"path": "img/refund_request_1_00118__id_number.png",
+"field_bbox": [
+153,
+256,
+306,
+53
+]
+},
+{
+"id": "refund_request_1_00121__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "font:GveretLevin-400",
+"gt": "726136526",
+"path": "img/refund_request_1_00121__id_number.png",
+"field_bbox": [
+153,
+256,
+306,
+44
+]
+},
+{
+"id": "family_declaration_1_00098__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "572445534",
+"path": "img/family_declaration_1_00098__id_number.png",
+"field_bbox": [
+97,
+256,
+297,
+44
+]
+},
+{
+"id": "family_declaration_1_00029__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "601862964",
+"path": "img/family_declaration_1_00029__id_number.png",
+"field_bbox": [
+97,
+256,
+297,
+58
+]
+},
+{
+"id": "personal_details_1_00117__id_number",
+"style": "comb",
+"mode": "scan",
+"renderer": "font:Karantina-400",
+"gt": "620331900",
+"path": "img/personal_details_1_00117__id_number.png",
+"field_bbox": [
+733,
+331,
+306,
+55
+]
+},
+{
+"id": "family_declaration_1_00080__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "516305018",
+"path": "img/family_declaration_1_00080__id_number.png",
+"field_bbox": [
+92,
+256,
+306,
+47
+]
+},
+{
+"id": "family_declaration_1_00077__id_number",
+"style": "comb",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "483526042",
+"path": "img/family_declaration_1_00077__id_number.png",
+"field_bbox": [
+97,
+256,
+297,
+53
+]
+},
+{
+"id": "family_declaration_1_00029__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "507145365",
+"path": "img/family_declaration_1_00029__m1_id.png"
+},
+{
+"id": "family_declaration_1_00128__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:AmaticSC-700",
+"gt": "981595077",
+"path": "img/family_declaration_1_00128__m1_id.png"
+},
+{
+"id": "family_declaration_1_00125__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:AmaticSC-700",
+"gt": "518328661",
+"path": "img/family_declaration_1_00125__m3_id.png"
+},
+{
+"id": "family_declaration_1_00008__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:Karantina-400",
+"gt": "906519129",
+"path": "img/family_declaration_1_00008__m1_id.png"
+},
+{
+"id": "family_declaration_1_00053__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:Karantina-400",
+"gt": "484219175",
+"path": "img/family_declaration_1_00053__m2_id.png"
+},
+{
+"id": "family_declaration_1_00140__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "856056197",
+"path": "img/family_declaration_1_00140__m3_id.png"
+},
+{
+"id": "family_declaration_1_00044__m4_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "295668065",
+"path": "img/family_declaration_1_00044__m4_id.png"
+},
+{
+"id": "family_declaration_1_00107__m3_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "198969925",
+"path": "img/family_declaration_1_00107__m3_id.png"
+},
+{
+"id": "family_declaration_1_00008__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:Karantina-400",
+"gt": "897093886",
+"path": "img/family_declaration_1_00008__m4_id.png"
+},
+{
+"id": "family_declaration_1_00041__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "238343206",
+"path": "img/family_declaration_1_00041__m1_id.png"
+},
+{
+"id": "family_declaration_1_00050__m3_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:AmaticSC-700",
+"gt": "391495553",
+"path": "img/family_declaration_1_00050__m3_id.png"
+},
+{
+"id": "family_declaration_1_00056__m3_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "431994490",
+"path": "img/family_declaration_1_00056__m3_id.png"
+},
+{
+"id": "family_declaration_1_00089__m4_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "613515121",
+"path": "img/family_declaration_1_00089__m4_id.png"
+},
+{
+"id": "family_declaration_1_00107__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "226429843",
+"path": "img/family_declaration_1_00107__m1_id.png"
+},
+{
+"id": "family_declaration_1_00104__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "602036568",
+"path": "img/family_declaration_1_00104__m1_id.png"
+},
+{
+"id": "family_declaration_1_00089__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "156279382",
+"path": "img/family_declaration_1_00089__m1_id.png"
+},
+{
+"id": "family_declaration_1_00059__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "854258225",
+"path": "img/family_declaration_1_00059__m4_id.png"
+},
+{
+"id": "family_declaration_1_00041__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "562504464",
+"path": "img/family_declaration_1_00041__m2_id.png"
+},
+{
+"id": "family_declaration_1_00053__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:Karantina-400",
+"gt": "529131492",
+"path": "img/family_declaration_1_00053__m3_id.png"
+},
+{
+"id": "family_declaration_1_00122__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "300646981",
+"path": "img/family_declaration_1_00122__m1_id.png"
+},
+{
+"id": "family_declaration_1_00083__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "357422674",
+"path": "img/family_declaration_1_00083__m1_id.png"
+},
+{
+"id": "family_declaration_1_00092__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "072987779",
+"path": "img/family_declaration_1_00092__m1_id.png"
+},
+{
+"id": "family_declaration_1_00071__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "952465276",
+"path": "img/family_declaration_1_00071__m2_id.png"
+},
+{
+"id": "family_declaration_1_00086__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "193787801",
+"path": "img/family_declaration_1_00086__m2_id.png"
+},
+{
+"id": "family_declaration_1_00038__m3_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "295756589",
+"path": "img/family_declaration_1_00038__m3_id.png"
+},
+{
+"id": "family_declaration_1_00134__m5_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "600876213",
+"path": "img/family_declaration_1_00134__m5_id.png"
+},
+{
+"id": "family_declaration_1_00101__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "537800930",
+"path": "img/family_declaration_1_00101__m1_id.png"
+},
+{
+"id": "family_declaration_1_00029__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "483888228",
+"path": "img/family_declaration_1_00029__m3_id.png"
+},
+{
+"id": "family_declaration_1_00044__m5_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "819581257",
+"path": "img/family_declaration_1_00044__m5_id.png"
+},
+{
+"id": "family_declaration_1_00101__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "684494818",
+"path": "img/family_declaration_1_00101__m2_id.png"
+},
+{
+"id": "family_declaration_1_00086__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "207889296",
+"path": "img/family_declaration_1_00086__m3_id.png"
+},
+{
+"id": "family_declaration_1_00089__m2_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "986895597",
+"path": "img/family_declaration_1_00089__m2_id.png"
+},
+{
+"id": "family_declaration_1_00137__m2_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "395396591",
+"path": "img/family_declaration_1_00137__m2_id.png"
+},
+{
+"id": "family_declaration_1_00113__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "022363519",
+"path": "img/family_declaration_1_00113__m4_id.png"
+},
+{
+"id": "family_declaration_1_00056__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "382601409",
+"path": "img/family_declaration_1_00056__m4_id.png"
+},
+{
+"id": "family_declaration_1_00143__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "429086713",
+"path": "img/family_declaration_1_00143__m3_id.png"
+},
+{
+"id": "family_declaration_1_00119__m4_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-700",
+"gt": "882271059",
+"path": "img/family_declaration_1_00119__m4_id.png"
+},
+{
+"id": "family_declaration_1_00131__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:AmaticSC-700",
+"gt": "722166949",
+"path": "img/family_declaration_1_00131__m1_id.png"
+},
+{
+"id": "family_declaration_1_00008__m2_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:Karantina-400",
+"gt": "810156257",
+"path": "img/family_declaration_1_00008__m2_id.png"
+},
+{
+"id": "family_declaration_1_00026__m1_id",
+"style": "table",
+"mode": "photo",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "563905694",
+"path": "img/family_declaration_1_00026__m1_id.png"
+},
+{
+"id": "family_declaration_1_00065__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "425106044",
+"path": "img/family_declaration_1_00065__m1_id.png"
+},
+{
+"id": "family_declaration_1_00068__m2_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "995544228",
+"path": "img/family_declaration_1_00068__m2_id.png"
+},
+{
+"id": "family_declaration_1_00095__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "630381234",
+"path": "img/family_declaration_1_00095__m3_id.png"
+},
+{
+"id": "family_declaration_1_00071__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "140089723",
+"path": "img/family_declaration_1_00071__m3_id.png"
+},
+{
+"id": "family_declaration_1_00134__m3_id",
+"style": "table",
+"mode": "photo",
+"renderer": "glyph:hhd+mnist",
+"gt": "040816100",
+"path": "img/family_declaration_1_00134__m3_id.png"
+},
+{
+"id": "family_declaration_1_00056__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:GveretLevin-400",
+"gt": "725808471",
+"path": "img/family_declaration_1_00056__m1_id.png"
+},
+{
+"id": "family_declaration_1_00020__m3_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "618883557",
+"path": "img/family_declaration_1_00020__m3_id.png"
+},
+{
+"id": "family_declaration_1_00032__m1_id",
+"style": "table",
+"mode": "scan",
+"renderer": "glyph:hhd+mnist",
+"gt": "024257164",
+"path": "img/family_declaration_1_00032__m1_id.png"
+},
+{
+"id": "family_declaration_1_00020__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:PlaypenSansHebrew-400",
+"gt": "570643197",
+"path": "img/family_declaration_1_00020__m4_id.png"
+},
+{
+"id": "family_declaration_1_00050__m4_id",
+"style": "table",
+"mode": "scan",
+"renderer": "font:AmaticSC-700",
+"gt": "268343183",
+"path": "img/family_declaration_1_00050__m4_id.png"
+}
+]

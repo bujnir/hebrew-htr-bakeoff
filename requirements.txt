@@ -1,0 +1,11 @@
+# scoring + cloud runners
+numpy
+pillow
+rapidfuzz
+datasets            # scripts/prepare_ivrit.py
+# local engines (CPU)
+torch
+opencv-python-headless
+transformers        # TrOCR, GLM-OCR
+# Mishkefet: clone github.com/itayinbarr/heb-ocr into third_party/heb-ocr and install its requirements
+# HebHTR: separate Python 3.6 + TensorFlow 1.12 environment, see runners/hebhtr.py

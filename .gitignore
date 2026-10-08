@@ -1,0 +1,8 @@
+.env
+*.key
+__pycache__/
+*.pyc
+.venv/
+third_party/
+# the ivrit.ai benchmark is gated and test-only: never commit its images or transcriptions
+data/ivrit/
